@@ -23,7 +23,7 @@ Creating "For Loops", math/random methods, and how to utilize arrays and strings
 
 ## Installation
 
-https://rubenruiz411.github.io/Password-Generator/
+https://rubenruiz411.github.io/Password-Generator1/
 
 ## Usage
 
