@@ -51,6 +51,8 @@ Received asssitance from UCLA Extension Bootcamp Tutor: Chris Baird
 
 Received Assistance from Shawn Littrel on how to create a new string from an existing array
 
+Original Repo is here: https://github.com/RubenRuiz411/Password-Generator
+- Had to create new Repo due to conflicts with committing final changes.
 
 ## License
 
